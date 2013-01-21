@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Exercise 4</title>
+    <link href="index.css" rel="stylesheet" />
+</head>
+<body>
+    <section>
+        <header>
+            <img src="calc_icon.png" alt="Calculator Icon" />
+            <span id="calc_title">Calculator</span>
+            <img src="calc_min_exp_exit.png" alt="Calculator Buttons" />
+        </header>
+        <div id="calc_body">
+            <nav>
+                <span class="first-letter"><span>V</span>iew</span>
+                <span class="first-letter"><span>E</span>dit</span>
+                <span class="first-letter"><span>H</span>elp</span>
+            </nav>
+            <p>8854455</p>
+            <table>
+                <tr id="top_row">
+                    <td>0000<br /><span class="graish">63</span></td>
+                    <td>0000<br />&nbsp;</td>
+                    <td>0000<br />&nbsp;</td>
+                    <td>0000<br />&nbsp;</td>
+                    <td>0000<br /><span class="graish">47</span></td>
+                    <td>0000<br />&nbsp;</td>
+                    <td>0000<br />&nbsp;</td>
+                    <td>0000<br /><span class="graish">32</span></td>
+                </tr>
+                <tr id="bottom_row">
+                    <td>0000<br /><span class="graish">31</span></td>
+                    <td>0000<br />&nbsp;</td>
+                    <td>1000<br />&nbsp;</td>
+                    <td>0111<br />&nbsp;</td>
+                    <td>0001<br /><span class="graish">15</span></td>
+                    <td>1011<br />&nbsp;</td>
+                    <td>1011<br />&nbsp;</td>
+                    <td>0111<br /><span class="graish">0</span></td>
+                </tr>
+            </table>
+            <table id="main_table">
+                <tr>
+                    <td rowspan="3" colspan="2" class="align_left">
+                        <input type="radio" name="system" />Hex<br />
+                        <input type="radio" name="system" />Oct<br />
+                        <input type="radio" name="system" />Dec<br />
+                        <input type="radio" name="system" />Bin
+                    </td>
+                    <td class="default"></td>
+                    <td class="rest">Mod</td>
+                    <td class="disabled">A</td>
+                    <td class="default">MC</td>
+                    <td class="default">MR</td>
+                    <td class="default">MS</td>
+                    <td class="default">M+</td>
+                    <td class="default">M-</td>
+                </tr>
+                <tr>
+                    <td class="rest">(</td>
+                    <td class="rest">)</td>
+                    <td class="disabled">B</td>
+                    <td id="special_char" class="rest">←</td>
+                    <td class="rest">CE</td>
+                    <td class="rest">C</td>
+                    <td class="rest">±</td>
+                    <td class="disabled">√</td>
+                </tr>
+                <tr>
+                    <td class="rest">RoL</td>
+                    <td class="rest">RoR</td>
+                    <td class="disabled">C</td>
+                    <td class="digits">7</td>
+                    <td class="digits">8</td>
+                    <td class="digits">9</td>
+                    <td class="rest">/</td>
+                    <td class="disabled">%</td>
+                </tr>
+                <tr>
+                    <td rowspan="3" colspan="2" class="align_left">
+                        <input type="radio" name="size" />Qword<br />
+                        <input type="radio" name="size" />Dword<br />
+                        <input type="radio" name="size" />Word<br />
+                        <input type="radio" name="size" />Byte
+                    </td>
+                    <td class="rest">Or</td>
+                    <td class="rest">Xor</td>
+                    <td class="disabled">D</td>
+                    <td class="digits">4</td>
+                    <td class="digits">5</td>
+                    <td class="digits">6</td>
+                    <td class="rest">*</td>
+                    <td class="disabled">1/x</td>
+                </tr>
+                <tr>
+                    <td class="rest">Lsh</td>
+                    <td class="rest">Rsh</td>
+                    <td class="disabled">E</td>
+                    <td class="digits">1</td>
+                    <td class="digits">2</td>
+                    <td class="digits">3</td>
+                    <td class="rest">-</td>
+                    <td rowspan="2" class="rest">=</td>
+                </tr>
+                <tr>
+                    <td class="rest">Not</td>
+                    <td class="rest">And</td>
+                    <td class="disabled">F</td>
+                    <td colspan="2" class="digits">0</td>
+                    <td class="disabled">.</td>
+                    <td class="rest">+</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\Владислав\documents\visual studio 2012\Projects\CSS Presentation\Ex4\bin\Ex4.dll
+C:\Users\Владислав\documents\visual studio 2012\Projects\CSS Presentation\Ex4\bin\Ex4.pdb
+C:\Users\Владислав\documents\visual studio 2012\Projects\CSS Presentation\Ex4\obj\Debug\Ex4.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\documents\visual studio 2012\Projects\CSS Presentation\Ex4\obj\Debug\Ex4.dll
+C:\Users\Владислав\documents\visual studio 2012\Projects\CSS Presentation\Ex4\obj\Debug\Ex4.pdb
