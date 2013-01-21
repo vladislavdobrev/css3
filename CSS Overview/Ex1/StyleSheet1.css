@@ -1,0 +1,44 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    width: 400px;
+    height: 250px;
+    background-color: #666666;
+    font-family: Arial;
+    color: white;
+}
+
+    table tr td {
+        vertical-align: top;
+    }
+
+        table tr td.graish {
+            color: #999999;
+        }
+
+            table tr td.graish[colspan] {
+                font-size: 24px;
+            }
+
+        table tr td.title {
+            font-style: italic;
+            color: #d7d7d7;
+        }
+
+        table tr td span {
+            color: #cb0000;
+            font-weight: bold;
+        }
+
+        table tr td.orange {
+            color: #ff7d20;
+            font-weight: 600;
+        }
+
+        table tr td img {
+            width: 16px;
+            height: 16px;
+        }

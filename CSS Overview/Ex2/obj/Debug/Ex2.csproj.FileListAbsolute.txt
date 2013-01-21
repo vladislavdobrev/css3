@@ -1,0 +1,10 @@
+C:\Users\Владислав\documents\visual studio 2012\Projects\CSS Overview\Ex2\bin\Ex2.dll
+C:\Users\Владислав\documents\visual studio 2012\Projects\CSS Overview\Ex2\bin\Ex2.pdb
+C:\Users\Владислав\documents\visual studio 2012\Projects\CSS Overview\Ex2\obj\Debug\Ex2.dll
+C:\Users\Владислав\documents\visual studio 2012\Projects\CSS Overview\Ex2\obj\Debug\Ex2.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\CSS Overview\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache
+D:\Studies\telerik-css\CSS Overview\Ex2\bin\Ex2.dll
+D:\Studies\telerik-css\CSS Overview\Ex2\bin\Ex2.pdb
+D:\Studies\telerik-css\CSS Overview\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache
+D:\Studies\telerik-css\CSS Overview\Ex2\obj\Debug\Ex2.dll
+D:\Studies\telerik-css\CSS Overview\Ex2\obj\Debug\Ex2.pdb

@@ -1,0 +1,44 @@
+﻿body {
+    background-color: #bbbbbb;
+}
+
+    body header h1, header nav ul li a {
+        color: white;
+        font-size: 22px;
+    }
+
+    body header h1 {
+        font-size: 40px;
+    }
+
+    body > header, body > footer {
+        text-align: center;
+    }
+
+header nav ul {
+    list-style-type: none;
+}
+
+    header nav ul li a, section article footer p a {
+        text-decoration: none;
+    }
+
+        header nav ul li a.current {
+            background-color: #dddddd;
+        }
+
+    header nav ul li:last-child {
+        text-decoration: underline;
+    }
+
+section article footer p {
+    font-size: 12px;
+}
+
+    section article footer p a {
+        color: black;
+    }
+
+section article header h1 {
+    font-size: 30px;
+}
